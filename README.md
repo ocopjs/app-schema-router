@@ -1,4 +1,4 @@
-## Utils
+# Schema App
 
 ![ocopjs packages](https://docs.ocopee.com/img/ocopjs-diagram.svg)
 
